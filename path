@@ -1,0 +1,7 @@
+export WORKON_HOME=~/.virtualenvs
+JAVA_HOME=/usr/local/java/jdk1.8.0_11
+JRE_HOME=/usr/local/java/jdk1.8.0_11/jre
+PATH=$PATH:$HOME/bin:$JAVA_HOME/bin:$JRE_HOME/bin
+export JAVA_HOME
+export JRE_HOME
+export PATH
